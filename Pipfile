@@ -6,13 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-Django = "<2.2"
-gunicorn = "==19.9"
+Django == "3.0"
+gunicorn = "==20.0"
 requests = "==2.22"
-openpyxl = "==2.6"
-dropbox = "==9.4"
+openpyxl = "==3.0"
 google-api-python-client = "==1.7"
-whitenoise = "==4.1"
+whitenoise = "==5.0"
 
 [requires]
 python_version = "3.6"
