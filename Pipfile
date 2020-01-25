@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-Django = "==2.2"
+Django = "==2.1"
 gunicorn = "==20.0"
 requests = "==2.22"
 openpyxl = "==3.0"
